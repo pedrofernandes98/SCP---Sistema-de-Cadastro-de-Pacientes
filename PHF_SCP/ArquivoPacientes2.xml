@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPaciente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Paciente>
+    <Codigo>6666</Codigo>
+    <CPF>60168857030</CPF>
+    <Nome>Lucas Thales Ribeiro</Nome>
+    <Endereco>Avenida Um, 467, Sao Luis</Endereco>
+    <Telefone>989813809</Telefone>
+    <Mail>lucasthales@cordeiromaquinas.com.br</Mail>
+    <DataNascimento>2000-12-21T00:00:00</DataNascimento>
+  </Paciente>
+  <Paciente>
+    <Codigo>7777</Codigo>
+    <CPF>03565122234</CPF>
+    <Nome>Rian Andradade</Nome>
+    <Endereco>Rua Monte Castelo, 687, Ji-Parana</Endereco>
+    <Telefone>69996719873</Telefone>
+    <Mail>rianandrade@gmail.com</Mail>
+    <DataNascimento>1977-11-03T00:00:00</DataNascimento>
+  </Paciente>
+  <Paciente>
+    <Codigo>FBB1</Codigo>
+    <CPF>123474</CPF>
+    <Nome>Ricardo Barbosa</Nome>
+    <Endereco>Rua 46</Endereco>
+    <Telefone>334444444</Telefone>
+    <Mail>ricardob@email.com</Mail>
+    <DataNascimento>1999-06-30T00:00:00-03:00</DataNascimento>
+  </Paciente>
+  <Paciente>
+    <Codigo>B06F</Codigo>
+    <CPF>90084232439</CPF>
+    <Nome>Helena Amaral Machado</Nome>
+    <Endereco>Praça Anita Garibaldi 203</Endereco>
+    <Telefone>19919009942</Telefone>
+    <Mail>helena.machado@hotmail.com</Mail>
+    <DataNascimento>1995-09-24T00:00:00</DataNascimento>
+  </Paciente>
+  <Paciente>
+    <Codigo>54E9</Codigo>
+    <CPF>08211548348</CPF>
+    <Nome>Isabela Amaral Gomes</Nome>
+    <Endereco>Rua Anita Garibald 78</Endereco>
+    <Telefone>92995577682</Telefone>
+    <Mail>isabela.gomes@icloud.com</Mail>
+    <DataNascimento>1998-11-24T00:00:00</DataNascimento>
+  </Paciente>
+  <Paciente>
+    <Codigo>4261</Codigo>
+    <CPF>07480474504</CPF>
+    <Nome>Giovana Teixeira Ducati</Nome>
+    <Endereco>Rua Anita Ferraz 194</Endereco>
+    <Telefone>11937302206</Telefone>
+    <Mail>giovana.ducati@icloud.com</Mail>
+    <DataNascimento>1983-10-25T00:00:00</DataNascimento>
+  </Paciente>
+  <Paciente>
+    <Codigo>CDD7</Codigo>
+    <CPF>65268877240</CPF>
+    <Nome>Arthur Danilo</Nome>
+    <Endereco>Rua Rio Grande 313</Endereco>
+    <Telefone>45997131164</Telefone>
+    <Mail>arthurdanilo@gmail.com</Mail>
+    <DataNascimento>1972-07-09T00:00:00</DataNascimento>
+  </Paciente>
+  <Paciente>
+    <Codigo>1351</Codigo>
+    <CPF>34006328990</CPF>
+    <Nome>Caio Manuel</Nome>
+    <Endereco>Rua Raimundo Cantuaria 298</Endereco>
+    <Telefone>69986602869</Telefone>
+    <Mail>caio.manuel@hotmail.com</Mail>
+    <DataNascimento>1958-11-02T00:00:00</DataNascimento>
+  </Paciente>
+  <Paciente>
+    <Codigo>F1E2</Codigo>
+    <CPF>123456788</CPF>
+    <Nome>Rafael Rocha</Nome>
+    <Endereco>Rua Azul 2001</Endereco>
+    <Telefone>33147852693</Telefone>
+    <Mail>rafarocha@outlook.com</Mail>
+    <DataNascimento>1994-07-16T00:00:00</DataNascimento>
+  </Paciente>
+</ArrayOfPaciente>

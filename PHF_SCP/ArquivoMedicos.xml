@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMedico xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Medico>
+    <Codigo>9AC9</Codigo>
+    <CRM>403284</CRM>
+    <Nome>Davi Ducati Teixeira</Nome>
+    <Telefone>82963690151</Telefone>
+    <Especialidade>Psicologia</Especialidade>
+  </Medico>
+  <Medico>
+    <Codigo>AE05</Codigo>
+    <CRM>345123</CRM>
+    <Nome>Jose Salam</Nome>
+    <Telefone>11975854197</Telefone>
+    <Especialidade>Pediatria</Especialidade>
+  </Medico>
+  <Medico>
+    <Codigo>A2AC</Codigo>
+    <CRM>429434121</CRM>
+    <Nome>Lucas Teixeira Gomes</Nome>
+    <Telefone>82946752677</Telefone>
+    <Especialidade>Clinico Geral</Especialidade>
+  </Medico>
+  <Medico>
+    <Codigo>3EFD</Codigo>
+    <CRM>123456</CRM>
+    <Nome>Gracielle de Souza Rodrigues</Nome>
+    <Telefone>5491137034920</Telefone>
+    <Especialidade>Cardiologia</Especialidade>
+  </Medico>
+  <Medico>
+    <Codigo>7580</Codigo>
+    <CRM>911225341</CRM>
+    <Nome>Ana Paula Machado</Nome>
+    <Telefone>92999431519</Telefone>
+    <Especialidade>Ortopedia</Especialidade>
+  </Medico>
+</ArrayOfMedico>

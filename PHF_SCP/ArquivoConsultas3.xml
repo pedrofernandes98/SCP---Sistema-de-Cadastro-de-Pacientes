@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfConsulta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Consulta>
+    <Codigo>AAB9</Codigo>
+    <Data>2019-06-09T00:00:00-03:00</Data>
+    <Horario>10:00</Horario>
+    <NomeMedico>Davi Ducati Teixeira</NomeMedico>
+    <NomePaciente>Rian Andradade</NomePaciente>
+    <CodMedico>9AC9</CodMedico>
+    <CodigoPaciente>7777</CodigoPaciente>
+  </Consulta>
+  <Consulta>
+    <Codigo>78A1</Codigo>
+    <Data>2019-06-09T00:00:00-03:00</Data>
+    <Horario>15:00</Horario>
+    <NomeMedico>Lucas Teixeira Gomes</NomeMedico>
+    <NomePaciente>Rafael Rocha</NomePaciente>
+    <CodMedico>A2AC</CodMedico>
+    <CodigoPaciente>F1E2</CodigoPaciente>
+  </Consulta>
+  <Consulta>
+    <Codigo>4256</Codigo>
+    <Data>2019-06-10T00:00:00</Data>
+    <Horario>14:00</Horario>
+    <NomeMedico>Jose Salam</NomeMedico>
+    <NomePaciente>Caio Manuel</NomePaciente>
+    <CodMedico>AE05</CodMedico>
+    <CodigoPaciente>1351</CodigoPaciente>
+  </Consulta>
+  <Consulta>
+    <Codigo>0C7C</Codigo>
+    <Data>2019-06-10T00:00:00</Data>
+    <Horario>14:30</Horario>
+    <NomeMedico>Gracielle de Souza Rodrigues</NomeMedico>
+    <NomePaciente>Arthur Danilo</NomePaciente>
+    <CodMedico>3EFD</CodMedico>
+    <CodigoPaciente>CDD7</CodigoPaciente>
+  </Consulta>
+  <Consulta>
+    <Codigo>E1D0</Codigo>
+    <Data>2019-06-11T00:00:00</Data>
+    <Horario>09:00</Horario>
+    <NomeMedico>Davi Ducati Teixeira</NomeMedico>
+    <NomePaciente>Caio Manuel</NomePaciente>
+    <CodMedico>9AC9</CodMedico>
+    <CodigoPaciente>1351</CodigoPaciente>
+  </Consulta>
+  <Consulta>
+    <Codigo>7A79</Codigo>
+    <Data>2019-06-11T00:00:00</Data>
+    <Horario>16:30</Horario>
+    <NomeMedico>Davi Ducati Teixeira</NomeMedico>
+    <NomePaciente>Isabela Amaral Gomes</NomePaciente>
+    <CodMedico>9AC9</CodMedico>
+    <CodigoPaciente>54E9</CodigoPaciente>
+  </Consulta>
+  <Consulta>
+    <Codigo>E9AF</Codigo>
+    <Data>2019-06-12T00:00:00</Data>
+    <Horario>08:00</Horario>
+    <NomeMedico>Davi Ducati Teixeira</NomeMedico>
+    <NomePaciente>Lucas Thales Ribeiro</NomePaciente>
+    <CodMedico>9AC9</CodMedico>
+    <CodigoPaciente>6666</CodigoPaciente>
+  </Consulta>
+  <Consulta>
+    <Codigo>6DF1</Codigo>
+    <Data>2019-06-12T00:00:00</Data>
+    <Horario>08:00</Horario>
+    <NomeMedico>Lucas Teixeira Gomes</NomeMedico>
+    <NomePaciente>Giovana Teixeira Ducati</NomePaciente>
+    <CodMedico>A2AC</CodMedico>
+    <CodigoPaciente>4261</CodigoPaciente>
+  </Consulta>
+  <Consulta>
+    <Codigo>3B50</Codigo>
+    <Data>2019-06-12T00:00:00</Data>
+    <Horario>09:00</Horario>
+    <NomeMedico>Jose Salam</NomeMedico>
+    <NomePaciente>Giovana Teixeira Ducati</NomePaciente>
+    <CodMedico>AE05</CodMedico>
+    <CodigoPaciente>4261</CodigoPaciente>
+  </Consulta>
+  <Consulta>
+    <Codigo>20F0</Codigo>
+    <Data>2019-06-12T00:00:00</Data>
+    <Horario>15:00</Horario>
+    <NomeMedico>Gracielle de Souza Rodrigues</NomeMedico>
+    <NomePaciente>Helena Amaral Machado</NomePaciente>
+    <CodMedico>3EFD</CodMedico>
+    <CodigoPaciente>B06F</CodigoPaciente>
+  </Consulta>
+  <Consulta>
+    <Codigo>946E</Codigo>
+    <Data>2019-06-12T00:00:00</Data>
+    <Horario>18:00</Horario>
+    <NomeMedico>Davi Ducati Teixeira</NomeMedico>
+    <NomePaciente>Rafael Rocha</NomePaciente>
+    <CodMedico>9AC9</CodMedico>
+    <CodigoPaciente>F1E2</CodigoPaciente>
+  </Consulta>
+  <Consulta>
+    <Codigo>E202</Codigo>
+    <Data>2019-07-24T00:00:00</Data>
+    <Horario>08:00</Horario>
+    <NomeMedico>Davi Ducati Teixeira</NomeMedico>
+    <NomePaciente>Lucas Thales Ribeiro</NomePaciente>
+    <CodMedico>9AC9</CodMedico>
+    <CodigoPaciente>6666</CodigoPaciente>
+  </Consulta>
+</ArrayOfConsulta>
